@@ -1,10 +1,10 @@
 "use strict";
 exports.HEROES = [
     { id: 11, name: 'Mr. Nice' },
-    { id: 12, name: 'Narco' },
-    { id: 13, name: 'Bombasto' },
-    { id: 14, name: 'Celeritas' },
-    { id: 15, name: 'Magneta' },
+    { id: 12, name: '版本控制GitHub' },
+    { id: 13, name: '開發工具NetBeans Sublime' },
+    { id: 14, name: '主流語言 Java PHP Python' },
+    { id: 15, name: '後起之秀Angular' },
     { id: 16, name: 'RubberMan' },
     { id: 17, name: 'Dynama' },
     { id: 18, name: 'Dr IQ' },
